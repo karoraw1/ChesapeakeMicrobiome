@@ -1,0 +1,8 @@
+USAF-WBAN_ID STATION NAME                   COUNTRY                                            STATE 			      LATITUDE LONGITUDE ELEVATION
+------------ ------------------------------ -------------------------------------------------- ------------------------------ -------- --------- ---------
+720384 00124 BAY BRIDGE AIRPORT             UNITED STATES                                      MARYLAND                        +38.967  -076.333   +0005.2
+724060 93721 BALTIMORE-WASHINGTON INTL AIRP UNITED STATES                                      MARYLAND                        +39.173  -076.684   +0047.6
+745940 13705 ANDREWS AIR FORCE BASE AIRPORT UNITED STATES                                      MARYLAND                        +38.817  -076.867   +0086.0
+997296 99999 BALTIMORE  MD                  UNITED STATES                                      MARYLAND                        +39.270  -076.570   +0010.0
+997994 99999 CHESAPEAKE BAY                 UNITED STATES                                      MARYLAND                        +38.767  -076.700   +0003.0
+999999 93721 BALTIMORE BLT-WASHNG           UNITED STATES                                      MARYLAND                        +39.167  -076.683   +0047.2
