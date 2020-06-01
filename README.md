@@ -1,13 +1,14 @@
 # ChesapeakeMicrobiome
 
 
-0. Formally write up how to extract OEU, Taxa, and Function Tables in a script
-.5. Make "Taxa Plots" for functions and taxa
-1. Copy over OEU script
-2. Read in different OEUs formations
-3. Pick your favorite? Make consensus? 
-4. Repeat decorrelation but retain
-5. Create an alterantive OTU table that has taxonomy, function, OEU
+0. Formally write up how to extract OEU, Taxa, and Function Tables in a script (DONE)
+.5. Make "Taxa Plots" for functions and taxa (Added to script but want to wait until specific points to be made with them)
+1. Copy over OEU script (DONE)
+2. Read in different OEUs formations (DONE)
+3. Pick your favorite? Make consensus? (Not necessary)
+4. Repeat decorrelation but retain (Not necessary yet or possibly at all)
+5. Create an alterantive OTU table that has taxonomy, function, OEU (Done)
+
 5. Ready in environmental data
 6. Create all possible times and places
 7. Create 1000 permutaitons 
