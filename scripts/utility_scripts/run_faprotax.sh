@@ -8,8 +8,8 @@ basedir=/Volumes/KeithSSD/ChesapeakeMicrobiome/data/faprotax_data
 exe_dir=/Volumes/KeithSSD/ChesapeakeMicrobiome/bin/FAPROTAX_1.2.1
 
 infile_g=$basedir/otu_taxa_full.biom
-outfile_g=$basedir/functional_taxa_silva.txt
-report_g=$basedir/report_silva.txt
+outfile_g=$basedir/functional_taxa_silva.2.txt
+report_g=$basedir/report_silva.2.txt
 
 python $exe_dir/collapse_table.py -n rows_before_collapsing \
 -i $infile_g -o $outfile_g \

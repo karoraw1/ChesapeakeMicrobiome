@@ -1,0 +1,35 @@
+
+
+WARNING: RAxML is not checking sequences for duplicate seqs and sites with missing data!
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+RAxML tree rooting algorithm
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS-AVX -T 24 -m GTRGAMMA -f I -t RAxML_bestTree.query_all_abund.2.ref.tre -n root.query_all_abund.2.ref.tre 
+
+
+RAxML-rooted tree using subtree length-balance printed to file:
+/scratch/users/karoraw1@jhu.edu/treescripts/RAxML_rootedTree.root.query_all_abund.2.ref.tre
+
+
+Time for tree rooting: 0.146450
+
