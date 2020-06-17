@@ -286,7 +286,7 @@ ANCOM = function(feature_table, meta_data, struc_zero = NULL, main_var, p_adj_me
     fig
   }
   
-  res = list(out = out, fig = fig)
+  res = list(out = out, fig = fig, fig.data=dat_fig)
   return(res)
 }
 
